@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(144, 146, 144);
+}
+
+/*style h1 and p*/
+h1 {color: white;}
+p {color: white;}
+
+/* style the header*/
+.header {
+    background-color: rgb(141, 71, 255);
+    padding: 20px;
+    margin: 25px;
+}
+
+/*style my Avatar*/
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+/*style the nav with all the li*/
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: top-right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+    
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+ /*style h2, h3, h4*/
+h2, h3, h4 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    color: black;
+}
+
+/*style the class content*/
+.content {
+    background-color: lightsteelblue;
+    color: black;
+    margin-bottom: 20px;
+    padding: 40px;
+    margin-right: 20px;
+    margin-left: 25px;
+}
+
+/*style the Link*/
+a:link {
+    color: coral;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: blue;
+}
+
+/*style classes with margin-bottom (About me, my work, Contact me Margins bottom)*/
+.aboutMe, .myWork, .contactMe {
+margin-bottom: 30px;
+}
+
+@media screen and (max-width:600px) {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
