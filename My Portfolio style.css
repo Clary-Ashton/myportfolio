@@ -66,10 +66,10 @@ p {
 .content {
     background-color: lightsteelblue;
     color: black;
-    margin-bottom: 20px;
+    margin: 20px;
     padding: 40px;
-    margin-right: 20px;
-    margin-left: 25px;
+    
+    
 }
 
 /*style the Link*/
@@ -86,14 +86,32 @@ a:active {
     color: blue;
 }
 
-/*style classes with margin-bottom (About me, my work, Contact me Margins bottom)*/
-.aboutMe, .myWork, .contactMe {
-margin-bottom: 30px;
-}
+/*style the nav class*/
+.nav {
+    background-color: yellow; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+  }
 
 @media screen and (max-width:600px) {
-    
+body {
+    background-color: lightgreen;
+
 }
+}
+
+.myWorkImg {
+    max-width: 100%;
+    height: auto;
+} 
 
 
 
