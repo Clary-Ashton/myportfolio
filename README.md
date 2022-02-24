@@ -9,11 +9,14 @@ A portfolio of work can showcase my skills and talents to potential employers lo
 
 This homework did help me to practice new skills I have recently learned like: Flex box, Media queries and css variables.
 
-
-
+## Deployed Link
 
 
 ## Screenshot
 
 ![Screenshot of Application](./assets/application-screenshot.png)
+
+# License
+
+This App is licensed with 
 
