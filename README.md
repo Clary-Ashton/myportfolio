@@ -18,7 +18,7 @@ This homework did help me to practice new skills I have recently learned like: F
 
 ## License
 
-This Portfolio is licensed under the 
+This Portfolio is licensed under the [MIT License](./LICENSE)
 
 
 
