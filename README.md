@@ -26,4 +26,8 @@ This Portfolio is licensed under the [MIT License](./LICENSE)
 
 This Portfolio was created by Clary Nsiku Mawangi
 
+## Contact Me:
+
+[Clary Mawangi](http://github.com/Clary-Ashton)
+
 
