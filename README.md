@@ -16,7 +16,8 @@ This homework did help me to practice new skills I have recently learned like: F
 
 ![Screenshot of Application](./assets/application-screenshot.png)
 
-# License
+## Created by:
 
-This App is licensed with 
+This Portfolio was created by Clary Nsiku Mawangi
+
 
