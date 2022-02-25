@@ -11,7 +11,6 @@ This homework did help me to practice new skills I have recently learned like: F
 
 ## Deployed Link
 
-##  Demo
 
 
 ## Screenshot
