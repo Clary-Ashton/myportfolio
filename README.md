@@ -15,7 +15,8 @@ This homework did help me to practice new skills I have recently learned like: F
 
 ## Screenshot
 
-![Screenshot of Application](./assets/application-screenshot.png)
+![screencapture-notes-taker-clary-herokuapp-notes-2022-02-28-22_30_09 (1)](https://user-images.githubusercontent.com/78886789/156069799-14655eae-1daa-4983-90f0-b48c49ffcf93.png)
+
 
 ## License
 
