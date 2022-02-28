@@ -1,36 +1,37 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
 <head>
-    
-        <meta charset="UTF-8" />
-    <title>My portfolio page</title>
+    <meta charset="UTF-8" />
+    <script src="https://kit.fontawesome.com/9303db13fa.js" crossorigin="anonymous"></script>
     <link rel="stylesheet"  href="./assets/style.css">
-    
+    <title>My portfolio page</title>
 </head>
 
-
 <body>
+<header id="header">
 
 <div class="header">
+    <nav id="navbar">
         
         <h1 style="font-size: 60px;"><b>Clary Mawangi<b></h1>
             
-            <img src="https://thumbs.dreamstime.com/z/profile-icon-male-avatar-portrait-casual-person-silhouette-face-flat-design-vector-46846328.jpg" alt="Avatar" class="avatar">
-
-
-       
-    <nav>
+         <nav>
         <ul>
 
                <li>
-                    <a href="#aboutMe">About Me</a>
+                   <a href="#Welcome">Welcome</a>
+                </li>   
+                
+                <li>   
+                <a href="#aboutMe">About Me</a>
                 </li>
+                
                 <li>
-                    <a href="#myWork">My Work</a>
+                    <a href="#projects">Projects</a>
                 </li>
+                
                 <li>
-                    <a href="#contactMe">Contact Me</a>
+                    <a href="#cv">CV</a>
                 </li>
             </ul>
     
@@ -39,7 +40,7 @@
    
     </nav>
 </div>
-
+</header>
 
 
 
@@ -50,13 +51,57 @@
 
 <main class="content">
 
-    <section id="aboutMe" class="aboutMe">
+    <section id="welcome" class="welcome"></section>
+
+    <section id="welcome-section" class="wecomeSection">
+        <header id="welcome-header">
+            <h2>Hello World, I'm Clary</h2><br>
+            <p>Web Developer. HTML, CSS, JavaScript</p>
+        </header> <br>
+
+        <div class="contact">
+            <ul id="contact">
+                
+                <li><a class="contact-link" href="https://www.linkedin.com/in/clary-mawangi-17653089/" target="_blank"><i
+                            class="fab fa-linkedin"></i> LinkedIn</a></li>
+                <li><a id="profile-link" class="contact-link" href="https://github.com/Clary-Ashton" target="_blank"><i
+                            class="fab fa-github"></i> Github</a></li>
+                <li><a class="contact-link" href="mailto:clarynsik@hotmail.co.uk"><i class="fas fa-envelope"></i>
+                        Email</a></li>
+                <li><a class="contact-link" href="tel:+447405077460"><i class="fas fa-mobile-alt"></i> Mobile</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+
+        
+        
     
-    <h2><b>About Me<b></h2>
+
+
+
+    <hr>
+    
+    <section id="aboutMe" class="aboutMe">
+
+       <div class="container">
+        
+    <div id="img">   
+       <figure>  
+            <img src="assets\IMG-20170219-WA0024.jpg" alt="Me standing close to my car" height="500">
+        </figure>
+    </div>  
+
+
+    <div id="me">
+    <h3><b>About Me<b></h3>
     <p>
-        I am Clary Mawangi and live in birmingham, UK. I am currently training as a Web Developer at the Universty of birmingham. I am outgoing, dedicated and open-minded. I believe that a person should work hard on developing their professional skills and 
+        I am Clary Mawangi and live in birmingham, UK. I am currently training as a Web Developer at the Universty of birmingham. I am outgoing, dedicated and open-minded. I believe that a person should work hard on developing their professional skills  
     and keep learning new things. I am currently seeking for a new career change after many years of being employed in the automotive manufacturing.
     </p>
+    </div>
+    </div>
     
 </section>
 
@@ -66,47 +111,22 @@
 
 
 
-<section id="myWork" class="myWork">
+<section id="projects" class="projects">
 
-    <h3><b> My Work</b></h3>
-
-    <p>This is the link to my first Developer's application: Horiseon-company</p>
-    
-     <a href="https://clary-ashton.github.io/horiseon-company/">
-     <img src="./assets/digital-marketing-meeting.jpg" alt="working people" height="200" width="200">
-     
-     
-<div class="Placeholder">
-    
-    <div> 
-     <p style="text-decoration: underline">This is a Placeholder</p>
-
-
-     <a>Placeholder Link</a>
-     <img class="image_placeholder"/>
-
-
-     <p style="text-decoration: underline">This is a Placeholder</p>
-     
-     
-     <a>Placeholder Link</a>
-     <img class="image_placeholder"/>
-    </div> 
-
-
-    </section >
-
-
-
-
-
+    <h4><b>Projects</b></h4>
 
     
     
-   <b><hr><b> 
-    <section id="contactMe" class="contactMe">
+     
+    
+</section >
 
-        <h4 style="color: black;"><b>Contact Me</b></h4>
+
+
+<b><hr><b> 
+    <section id="cv" class="cv">
+
+        <h5 style="color: black;"><b>CV</b></h5>
 
         
         <section class="nav">
@@ -114,10 +134,10 @@
         <nav>
             <ul>
                 <li>
-                    <a href="mailto:clarynsik@hotmail.com">email</a>
+                   
                  </li>
                  <li>
-                     My phone: 07405077461
+                    
                   </li>
                 </ul> 
         </nav>
