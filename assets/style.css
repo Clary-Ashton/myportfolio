@@ -53,14 +53,14 @@ p {color: white;}
   }
 
   .contact {
-      color: black;
+      color: red;
   }
   
   #contact {
     margin: 20px auto;
     display: flex;
     justify-content: space-evenly;
-    color: black;
+    color: red;
     margin-bottom: 100px;
     margin-top: 100px;
     
@@ -130,13 +130,11 @@ p {
 
 /*style the Link*/
 a:link {
-    color: coral;
-}
-a:visited {
-    color: white;
-}
-a:hover {
     color: red;
+}
+
+a:hover {
+    color: coral;
 }
 a:active {
     color: blue;
@@ -144,7 +142,7 @@ a:active {
 
 /*style the nav class*/
 .nav {
-    background-color: yellow; 
+    
     list-style-type: none;
     text-align: center;
     margin: 0;
