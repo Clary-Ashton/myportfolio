@@ -19,7 +19,7 @@ p {color: white;}
 .header {
    
    
-    background-color: rgb(141, 71, 255);
+    background-color: blue;
     position: fixed;
     top: 0;
     width: 100%;
@@ -167,6 +167,12 @@ body {
     height: auto;
 } 
 
+#aboutMe {
+    background-color: whitesmoke;
+    text-align: left;
+    
+}
+
 #me {
     margin-right: 100px;
     margin-top: 50px;
@@ -175,6 +181,57 @@ body {
      margin-left: 30px;
      margin-top: 50px;
  }
+ 
+ /* projects */
+ .projects {
+     color: black;
+     background-color: orange;
+ }
+
+ #projects-container {
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: center;
+     width: 65%;
+     margin: auto;
+ }
+
+ #projects img {
+     display: block;
+     width: 80%;
+     margin: auto;
+     border: solid 2px black;
+     
+     transition-duration: 0.5s;
+
+ }
+
+ #project1 {
+     text-align: center;
+     margin-top: 30px;
+     background-color: palegoldenrod;
+     border: solid 2px black;
+     
+ }
+ 
+   
+      
+ 
+
+ #projects .projects-links {
+     color: red;
+
+}
+ 
+#projects ul, #projects li {
+    background-color: yellowgreen;
+    width: 80%;
+    margin: auto;
+    list-style: square;
+    border-bottom: solide 2px black;
+   
+  }
 
 
 
