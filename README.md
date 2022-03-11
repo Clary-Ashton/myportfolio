@@ -19,9 +19,7 @@ https://clary-ashton.github.io/myportfolio/
 
 ## Technologies used:
 
-HTML
-
-css
+HTML and CSS
 
 
 
