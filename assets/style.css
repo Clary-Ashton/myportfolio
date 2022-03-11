@@ -212,6 +212,9 @@ body {
      margin-top: 30px;
      background-color: palegoldenrod;
      border: solid 2px black;
+     padding-bottom: 2%;
+     padding-top: 2%;
+
      
  }
  
@@ -219,10 +222,7 @@ body {
       
  
 
- #projects .projects-links {
-     color: red;
 
-}
  
 #projects ul, #projects li {
     background-color: yellowgreen;
