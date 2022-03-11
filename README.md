@@ -18,9 +18,7 @@ https://clary-ashton.github.io/myportfolio/
 ![Screenshot (33)](https://user-images.githubusercontent.com/78886789/157784458-d1784c1e-cf63-45d4-9871-1bce71dac323.png)
 
 
-<<<<<<< HEAD
 ## Screenshot
-=======
 
 
 
