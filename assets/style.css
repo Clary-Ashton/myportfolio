@@ -195,6 +195,7 @@ body {
      justify-content: center;
      width: 65%;
      margin: auto;
+     padding-bottom: 5%;
  }
 
  #projects img {
@@ -202,7 +203,7 @@ body {
      width: 80%;
      margin: auto;
      border: solid 2px black;
-     
+    
      transition-duration: 0.5s;
 
  }
@@ -217,7 +218,8 @@ body {
 
      
  }
- 
+
+
    
       
  
