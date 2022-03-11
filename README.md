@@ -16,7 +16,8 @@ A portfolio of work can showcase my skills and talents to potential employers lo
 
 ## Screenshot
 
-![screencapture-file-C-Users-user-Documents-myportfolio-index-html-2022-03-11-01_13_55](https://user-images.githubusercontent.com/78886789/157784216-9ff03858-4253-463b-ab97-de087fd8526d.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/78886789/157784458-d1784c1e-cf63-45d4-9871-1bce71dac323.png)
+
 
 
 
