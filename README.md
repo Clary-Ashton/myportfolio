@@ -11,12 +11,7 @@ A portfolio of work can showcase my skills and talents to potential employers lo
 ## Deployed Link
 
 
-
-
-
 ## Screenshot
-
-C:\Users\user\Documents\myportfolio\assets\screencapture-file-C-Users-user-Documents-myportfolio-index-html-2022-03-11-01_13_55.png
 
 
 ## License
