@@ -186,6 +186,7 @@ body {
  .projects {
      color: black;
      background-color: orange;
+     margin-bottom: 5%;
  }
 
  #projects-container {
@@ -195,7 +196,8 @@ body {
      justify-content: center;
      width: 65%;
      margin: auto;
-     padding-bottom: 5%;
+     
+    
  }
 
  #projects img {
